@@ -1,0 +1,3 @@
+db_path: ./vvh-radar.db
+addr: :8080
+group_id: fake-group
